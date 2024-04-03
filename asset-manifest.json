@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.72d331ee.css",
-    "main.js": "/static/js/main.66d6d394.js",
+    "main.css": "/static/css/main.2bcf41cc.css",
+    "main.js": "/static/js/main.4bdb5b21.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/taavipilt.png": "/static/media/taavipilt.2dedc6d080481d17d94b.png",
     "static/media/final_splash_screen.png": "/static/media/final_splash_screen.3fd715f983bb98822744.png",
     "static/media/meie_pela.png": "/static/media/meie_pela.8fe25b26523f443e6a9f.png",
     "static/media/Fishing3.svg": "/static/media/Fishing3.31aff1b61bf50558c954.svg",
+    "static/media/taavirannuresume.pdf": "/static/media/taavirannuresume.ddc65873d9820709cb80.pdf",
     "static/media/Foreground3.svg": "/static/media/Foreground3.ed32963a8e023741f59d.svg",
-    "static/media/taavirannuresume.pdf": "/static/media/taavirannuresume.cd1b69d23e15edfd5eef.pdf",
+    "static/media/into_the_bus.png": "/static/media/into_the_bus.1c551b2e8ad3f806eb7c.png",
     "static/media/redashed_img.png": "/static/media/redashed_img.b5ef7cab3ed0e31387e5.png",
     "static/media/platform_long_2.svg": "/static/media/platform_long_2.d4fa7657e30414c49ed4.svg",
     "static/media/platform_small_1.svg": "/static/media/platform_small_1.33b9360e26757d07bc7f.svg",
@@ -22,15 +23,15 @@
     "static/media/Mountains.svg": "/static/media/Mountains.d6b1ea7dbe6de2767401.svg",
     "static/media/Hills.svg": "/static/media/Hills.3adb1fe00f80b0ee295b.svg",
     "static/media/Light.svg": "/static/media/Light.c6d78f1c8c62d57bfaf9.svg",
-    "static/media/scroll-icon.svg": "/static/media/scroll-icon.8bdd10205efe5339e2d1.svg",
     "index.html": "/index.html",
+    "static/media/scroll-icon.svg": "/static/media/scroll-icon.8bdd10205efe5339e2d1.svg",
     "static/media/Sky.svg": "/static/media/Sky.768c7a43dacf7e09826a.svg",
-    "main.72d331ee.css.map": "/static/css/main.72d331ee.css.map",
-    "main.66d6d394.js.map": "/static/js/main.66d6d394.js.map",
+    "main.2bcf41cc.css.map": "/static/css/main.2bcf41cc.css.map",
+    "main.4bdb5b21.js.map": "/static/js/main.4bdb5b21.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72d331ee.css",
-    "static/js/main.66d6d394.js"
+    "static/css/main.2bcf41cc.css",
+    "static/js/main.4bdb5b21.js"
   ]
 }
